@@ -2,12 +2,12 @@
 This analysis is made display weather summary to a posible investor that would like to invest on a Surf & Shake business on the beautiful island of Oahu. We have proceed to obtain the temperature analysis of the months of June and December.  
 
 # Analysis
-The weather results on **June** are the following: ( Results here)
+The weather results on **June** are the following: [Results](Dec_Temperature.png)
 -Lowest temperature of 64 F.
 -Average of 74.94 F.
 -Max temperature of 85 F.
 
-The weather results on **December** are the following: (Results here)
+The weather results on **December** are the following: [Results](June_Temperature.png)
 -Lowest temperature of 56 C.
 -Average of 71.04 C. 
 -Max temperature of 83 C.
