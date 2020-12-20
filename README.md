@@ -19,7 +19,7 @@ The weather results on **December** are the following: [Results](June_Temperatur
 -Max temperature of 83 C.
 
 
-This results determine this results: 
+In resume: 
 - June is overall hotter than December 
 
 -The standard deviation of June is lower (3.25) than December (3.74) which translate to a more stable temperature. 
