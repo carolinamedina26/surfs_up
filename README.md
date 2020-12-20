@@ -18,4 +18,4 @@ This results determine this results:
 -The maximum temperature for both months are similar, although, on the other size of the spectrum, the minimum temperature varieties by 8 F. 
 
 # Conclusion 
-Oahu has a stable temperature during the entire year which variate from 74.94 during summer and 71.04 in winter. This weather conditions are ideal for a Surf & Shake shop. 
+Oahu is a ideal place to start a Surf & Shake shop due to its stable temperature during the entire year, this only variate from 74.94 F during summer and 71.04 F in winter. The following analysis would be the rain information, since it will affect the conditions to Surf on the island, another analysis would be the tourist season on the island, this will allow the business to create a sales plan during high season. 
